@@ -49,6 +49,10 @@ https://github.com/viktorleis/job
 
 # Task update
 
+**6/05/2025 - Joe**
+Created my own run_noisy.py because it needed to connect to postgres through
+my credentials. Also changed restore.sh because it didn't work on my system. 
+Ran all the noisy tests for the epsilon 0.01 with some problem queries showing up,
 
 
 
