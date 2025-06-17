@@ -189,3 +189,6 @@ cython_debug/
 
 # architecture-specific files
 .DS_Store
+
+# My Ignores
+obl_wn_nullfrac*
